@@ -7,7 +7,7 @@ long_sets="" # mls_polish => data error
 language=Polish
 exp_dir=exp
 is_long=false
-stage=0
+stage=1
 
 # mls_polish is long type
 
